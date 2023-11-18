@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Newgen
 - 👀 I’m interested in cool things
 - 🌱 I’m currently learning about product management
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on hackathons
+- 📫 How to reach me: @newgenss on insta
 
 <!---
 newnewnewgen/newnewnewgen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
