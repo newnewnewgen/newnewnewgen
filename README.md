@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @newnewnewgen
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Newgen
+- 👀 I’m interested in cool things
+- 🌱 I’m currently learning about product management
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
