@@ -1,5 +1,19 @@
 # AI Resume Writer
 
+> ## ⚠️ SUNSET — archived 2026-09-17
+>
+> **This project is no longer maintained and is superseded by a full rebuild.**
+>
+> **This repo is additionally a stale mirror.** It stopped receiving updates at the
+> Streamlit stage and never got the FastAPI backend, the Next.js frontend, or any
+> pipeline work after that point. The furthest-along copy of this project lived at
+> `newnewnewgen/ultimateresume`.
+>
+> That this mirror silently fell behind while still looking complete is itself an
+> instance of the project's primary failure — see failure #1 in
+> **[POSTMORTEM.md](POSTMORTEM.md)**, which records what failed, what worked, and what
+> carries forward into the rebuild.
+
 An expert AI-powered resume generation pipeline that produces resumes optimized for both ATS (Applicant Tracking Systems) and hiring manager intent.
 
 ## How It Works
